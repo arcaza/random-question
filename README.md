@@ -1,8 +1,10 @@
-# React + Vite
+# Random Question Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Questions will be randomly chosen on page reload.
+- <ins>Built this mostly for personal use</ins>
+- Text area does nothing and it's only to support the user in cementing his thought process.
+- It won't give you a positive or negative feedback when typing on the text area, as I said it does nothing
+- Questions are a combination of questions from other repositories and other youtube videos.
+- **I have literally zero experience, I DO NOT KNOW how current frontend interviews are structured and what other random questions they'll ask**
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I wish you good luck
